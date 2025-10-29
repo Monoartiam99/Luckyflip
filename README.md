@@ -6,6 +6,8 @@ This project is perfect for anyone who is learning Solidity and wants to underst
 - How betting works on-chain
 - How to handle ETH payments in smart contracts
 - How events and randomness can be used
+### Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9719784b-26bc-4953-b780-dcab1cadb4a6" />
 
 ---
 
@@ -27,6 +29,7 @@ This project is perfect for anyone who is learning Solidity and wants to underst
 ✔ Works out-of-the-box on Remix
 
 ---
+
 
 ## 📜 Smart Contract Code
 ```solidity
