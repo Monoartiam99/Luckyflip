@@ -9,9 +9,9 @@ This project is perfect for anyone who is learning Solidity and wants to underst
 ### Screenshots
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9719784b-26bc-4953-b780-dcab1cadb4a6" />
 
+---
 Contact link : https://repo.sourcify.dev/11142220/0x648aB62BFC3aC1Fdc08304f0D4387c4153f6cad5/
 Contact Adress : 0x648ab62bfc3ac1fdc08304f0d4387c4153f6cad5
----
 
 ## ✅ What LuckyFlip Does
 - Users send ETH to the contract.
